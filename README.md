@@ -1,6 +1,8 @@
 # Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+entah kenapa saat deploy gagal mulu jadi jangan hiraukan github pagesnya
+tapi sudah berhasil semua ko.. kalo ada kendala kasih tau aj ya kang
+makasih banyak...
 
 ## Setup
 
